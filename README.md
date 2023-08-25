@@ -1,4 +1,4 @@
-# Campus Archive - Projet PHP avec SQLite
+# Projet PHP avec SQLite
 
 Bienvenue dans le projet Campus Archive ! 📚 Ce dépôt héberge un système basé sur PHP pour gérer et stocker les anciens devoirs étudiants en utilisant une base de données SQLite.
 
