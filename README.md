@@ -4,32 +4,32 @@ Bienvenue dans le projet Campus Archive ! 📚 Ce dépôt héberge un système b
 
 ## À propos
 
-Campus Archive est une plateforme numérique qui vous permet d'organiser et d'accéder aux anciens devoirs étudiants, offrant un aperçu de l'évolution académique et des connaissances au fil du temps.
+Campus Archive est une plateforme numérique conçue pour permettre aux étudiants et aux enseignants de stocker, organiser et accéder facilement aux anciens devoirs. Le projet repose sur la technologie PHP et utilise une base de données SQLite pour une gestion efficace des données.
 
 ## Fonctionnalités
 
-- Interface conviviale pour parcourir et rechercher les devoirs.
-- Catégorisation efficace des devoirs par matière.
-- Système d'authentification et d'autorisation sécurisé.
-- Utilisation d'une base de données SQLite pour le stockage des données.
+- Interface conviviale pour naviguer à travers les devoirs archivés.
+- Système de catégorisation par matière pour une recherche aisée.
+- Sécurité intégrée avec un système d'authentification utilisateur.
+- Stockage des données via une base de données SQLite locale.
 
-## Pour commencer
+## Mise en route
 
 1. Clonez ce dépôt : `git clone https://github.com/adamaniada/php_sqlite.git`
-2. Configurez un environnement de développement PHP local.
-3. Importez le schéma de la base de données SQLite fourni (`database.sqlite`) ou créez le vôtre.
-4. Configurez la connexion à la base de données dans `config.php`.
-5. Personnalisez le projet selon les besoins de votre institution.
+2. Configurez un environnement de développement PHP avec un serveur web.
+3. Importez la base de données SQLite fournie (`database.sqlite`) ou créez-en une nouvelle.
+4. Configurez les paramètres de connexion dans le fichier `config.php`.
+5. Personnalisez le projet selon les besoins de votre établissement.
 
 ## Utilisation
 
-1. Accédez au projet via un navigateur web.
-2. Parcourez les devoirs par matière ou utilisez la fonction de recherche.
-3. Les utilisateurs authentifiés peuvent ajouter de nouveaux devoirs via l'interface.
+1. Accédez au projet via votre navigateur web.
+2. Parcourez les devoirs en fonction des matières ou utilisez la fonction de recherche.
+3. Les utilisateurs autorisés peuvent ajouter de nouveaux devoirs à l'archive.
 
 ## Contributions
 
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre des pull requests pour des améliorations, des corrections de bugs ou de nouvelles fonctionnalités.
+Les contributions sont les bienvenues ! Si vous avez des suggestions, des améliorations ou des corrections, n'hésitez pas à soumettre une pull request.
 
 ## Licence
 
@@ -37,4 +37,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
 
-Pour toute question ou information supplémentaire, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question ou information complémentaire, veuillez nous contacter à [votre-email@example.com](mailto:votre-email@example.com).
